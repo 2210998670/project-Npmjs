@@ -1,6 +1,6 @@
 {
   "name": "project-npmjs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A description of what index.js does",
   "main": "index.js",
   "files": [
