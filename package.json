@@ -1,0 +1,23 @@
+{
+  "name": "project-npmjs",
+  "version": "1.0.1",
+  "description": "A description of what money.js does",
+  "main": "money.js",
+  "files": [
+    "money.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2210998670/project-Npmjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/2210998670/project-Npmjs.git/issues"
+  },
+  "homepage": "https://github.com/2210998670/project-Npmjs.git#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
