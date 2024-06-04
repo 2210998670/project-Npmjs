@@ -1,6 +1,6 @@
 {
   "name": "project-npmjs",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A description of what index.js does",
   "main": "index.js",
   "files": [
@@ -9,23 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/2210998670/project-Npmjs.git"
-  },
-  "exports": {
-    ".": {
-      "import": "./index.js"
-    },
-    "./utils/common.js": {
-      "require": "./utils/common.js"
-    },
-    "./utils/money.js": {
-      "require": "./utils/money.js"
-    },
-    "./utils/time.js": {
-      "require": "./utils/time.js"
-    },
-    "./utils/validate.js": {
-      "require": "./utils/validate.js"
-    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
